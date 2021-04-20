@@ -9,7 +9,7 @@ with open("README.md", "r") as fh:
 REQUIRED_PACKAGES = [
     # 'tensorflow>=1.4.0,<=1.12.0',
     'gensim==3.6.0',
-    'networkx==2.1',
+    'networkx==2.5.1',
     'joblib==0.14.1',
     'fastdtw==0.3.2',
     'tqdm',
